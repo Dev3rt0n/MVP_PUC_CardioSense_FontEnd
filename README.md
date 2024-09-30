@@ -19,6 +19,7 @@ O **CardioSense Frontend** é uma interface simples que permite ao usuário inse
 
 A estrutura do projeto é bastante simples e contém os seguintes arquivos:
 
+```
 ├── index.html # Página principal de apresentação que direciona para o formulário
 ├── form.html # Página com o formulário
 ├── css/ 
@@ -29,6 +30,7 @@ A estrutura do projeto é bastante simples e contém os seguintes arquivos:
 ├── img/ 
 │ └── background.jpg # Imagem com fundo da página inicial
 └── README.md # Documentação do projeto
+```
 
 ## Uso
 
